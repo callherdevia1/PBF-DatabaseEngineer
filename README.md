@@ -7,10 +7,12 @@ Database dapat disimpan di: XAMPP(MYSQL), Navicat, atau diserver lainnya.
 ERD dalam membuat sebuah sistem digunakan untuk menggambarkan secara detail sebuah entitas/tabel serta relasi antar entitasnya dalam sebuah sistem yang dibuat.
 
 Fungsi ERD Yang Lain:
-- Memahami kolom, data/tipe data apa saja yang akan dibuat 
-- Sebagai acuan untuk membuat tabel didalam database
+- Memahami kolom, data/tipe data apa saja yang akan dibuat (int,char,varchar, etc.)
+- Sebagai acuan untuk membuat tabel didalam database.
 - Mengurangi kesalahan saat membuat database.
 ![gambar](https://github.com/user-attachments/assets/228aa3b1-219a-4444-9bd5-675125b1970e)
+
+Sebelumnya terdapat revisi pada tabel mahasiswa dari tipe data char menjadi varchar.
 
 ## Relations (Relasi Antar Tabel)
 - User - Mahasiswa (One to One)
