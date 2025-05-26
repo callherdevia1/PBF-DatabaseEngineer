@@ -68,8 +68,16 @@ DROP TABLE IF EXISTS Mahasiswa berarti perintah untuk menghapus tabel Mahasiswa 
    
    Ketikan ke terminal : php artisan serve
    
-   Perintah Laravel (framework PHP) untuk menjalankan server lokal
+   Perintah Laravel (framework PHP) untuk menjalankan server lokal. Jika sudah jadi nanti akan muncul link lalu di klik saja.
    ![gambar](https://github.com/user-attachments/assets/4f42c4f9-4709-40ca-9887-d69fbc6a049a)
+4. Tampilan
+   ![gambar](https://github.com/user-attachments/assets/0ea8d14b-2407-44f3-8dee-478653468c97)
+   
+   ![gambar](https://github.com/user-attachments/assets/724cf296-4b32-4085-9a51-a62b654dffaa)
+
+
+   ![gambar](https://github.com/user-attachments/assets/0f0f4ce2-7873-4968-9319-9e4c03e738af)
+
 
 
 
