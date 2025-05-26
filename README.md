@@ -36,7 +36,7 @@ Sebelumnya terdapat revisi pada tabel mahasiswa dari tipe data char menjadi varc
 - Sidang - Hasil_Sidang (One to One)
   
   Satu sidang hanya memiliki satu hasil.
-## DATABASE (Navicat)
+## SQL (Navicat)
 Dalam membuat dan menyimpan database dapat melalui banyak cara misalnya saja menggunakan xampp atau navicat. Disini saya menggunakan Navicat, karena lebih mudah baik itu memasukan query atau melakukan Create, Insert, ataupun Join.
 
 - CREATE: Digunakan untuk membuat tabel maupun view
@@ -47,3 +47,26 @@ Notes :
 
 DROP TABLE IF EXISTS Mahasiswa berarti perintah untuk menghapus tabel Mahasiswa kalau tabel itu ada atau bisa juga biar nggak error kalau tabel sebelumnya udah pernah dibuat.
 ![gambar](https://github.com/user-attachments/assets/9a00fa9e-927b-411b-aea0-daa817147cd9)
+
+## TEST BACKEND (Local)
+1. Download Zip Lalu Extract
+   ![gambar](https://github.com/user-attachments/assets/31bc54c3-f9f2-487a-99d1-07bd5513a2c9)
+2. Masukan Ke VSCODE
+   Ketikan ke terminal : php spark serve
+   Perintah CodeIgniter 4 (CI4) untuk menjalankan web server lokal (development server) langsung dari terminal.
+   ![gambar](https://github.com/user-attachments/assets/3a40bcbd-764f-4c16-9911-dfa43d4ee88b)
+3. Check Postman
+   ![gambar](https://github.com/user-attachments/assets/dd7a253d-096c-4111-82ac-2ce4138d542c)
+## TEST FRONTEND (Local)
+1. Download Zip lalu Extract
+   ![gambar](https://github.com/user-attachments/assets/2361665a-96e1-4b7a-8827-6814e0dbfcee)
+2. Masukkan Ke VSCODE
+   Ketikan ke terminal : php artisan serve
+   Perintah Laravel (framework PHP) untuk menjalankan server lokal
+   ![gambar](https://github.com/user-attachments/assets/4f42c4f9-4709-40ca-9887-d69fbc6a049a)
+
+
+
+
+
+
