@@ -40,8 +40,8 @@ Sebelumnya terdapat revisi pada tabel mahasiswa dari tipe data char menjadi varc
 Dalam membuat dan menyimpan database dapat melalui banyak cara misalnya saja menggunakan xampp atau navicat.
 Disini saya menggunakan Navicat, karena lebih mudah baik itu memasukan query atau melakukan Create, Insert, ataupun Join.
 
--CREATE: Digunakan untuk membuat tabel maupun view
--INSERT: Digunakan untuk memasukan data ke tabel
--JOIN: Digunakan untuk menggabungkan data dari dua atau lebih tabel berdasarkan relasi antar tabel tersebut (biasanya lewat foreign key).
+- CREATE: Digunakan untuk membuat tabel maupun view
+- INSERT: Digunakan untuk memasukan data ke tabel
+- JOIN: Digunakan untuk menggabungkan data dari dua atau lebih tabel berdasarkan relasi antar tabel tersebut (biasanya lewat foreign key).
 ![gambar](https://github.com/user-attachments/assets/9a00fa9e-927b-411b-aea0-daa817147cd9)
 
