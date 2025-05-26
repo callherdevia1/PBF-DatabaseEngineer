@@ -37,8 +37,7 @@ Sebelumnya terdapat revisi pada tabel mahasiswa dari tipe data char menjadi varc
   
   Satu sidang hanya memiliki satu hasil.
 ## DATABASE (Navicat)
-Dalam membuat dan menyimpan database dapat melalui banyak cara misalnya saja menggunakan xampp atau navicat.
-Disini saya menggunakan Navicat, karena lebih mudah baik itu memasukan query atau melakukan Create, Insert, ataupun Join.
+Dalam membuat dan menyimpan database dapat melalui banyak cara misalnya saja menggunakan xampp atau navicat. Disini saya menggunakan Navicat, karena lebih mudah baik itu memasukan query atau melakukan Create, Insert, ataupun Join.
 
 - CREATE: Digunakan untuk membuat tabel maupun view
 - INSERT: Digunakan untuk memasukan data ke tabel
