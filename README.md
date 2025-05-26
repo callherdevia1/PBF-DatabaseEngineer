@@ -36,5 +36,9 @@ Sebelumnya terdapat revisi pada tabel mahasiswa dari tipe data char menjadi varc
 - Sidang - Hasil_Sidang (One to One)
   
   Satu sidang hanya memiliki satu hasil.
-## QUERY
-https://drive.google.com/drive/folders/1LsAKN62Ci57Aqi5fyxoj5O6OwmTNUaAO?usp=sharing
+## DATABASE (Navicat)
+Dalam membuat dan menyimpan database dapat melalui banyak cara misalnya saja menggunakan xampp atau navicat.
+
+Disini saya menggunakan Navicat, karena lebih mudah baik itu memasukan query atau melakukan create, insert, ataupun join.
+![gambar](https://github.com/user-attachments/assets/9a00fa9e-927b-411b-aea0-daa817147cd9)
+
