@@ -53,17 +53,21 @@ DROP TABLE IF EXISTS Mahasiswa berarti perintah untuk menghapus tabel Mahasiswa 
    
    ![gambar](https://github.com/user-attachments/assets/31bc54c3-f9f2-487a-99d1-07bd5513a2c9)
 3. Masukan Ke VSCODE
+   
    Ketikan ke terminal : php spark serve
+   
    Perintah CodeIgniter 4 (CI4) untuk menjalankan web server lokal (development server) langsung dari terminal.
    ![gambar](https://github.com/user-attachments/assets/3a40bcbd-764f-4c16-9911-dfa43d4ee88b)
-4. Check Postman
+5. Check Postman
    ![gambar](https://github.com/user-attachments/assets/dd7a253d-096c-4111-82ac-2ce4138d542c)
 ## TEST FRONTEND (Local)
 1. Download Zip lalu Extract
    
    ![gambar](https://github.com/user-attachments/assets/2361665a-96e1-4b7a-8827-6814e0dbfcee)
 3. Masukkan Ke VSCODE
+   
    Ketikan ke terminal : php artisan serve
+   
    Perintah Laravel (framework PHP) untuk menjalankan server lokal
    ![gambar](https://github.com/user-attachments/assets/4f42c4f9-4709-40ca-9887-d69fbc6a049a)
 
