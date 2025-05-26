@@ -13,4 +13,18 @@ Fungsi ERD Yang Lain:
 ![gambar](https://github.com/user-attachments/assets/228aa3b1-219a-4444-9bd5-675125b1970e)
 
 ## Relations (Relasi Antar Tabel)
-- User - Mahasiswa
+- User - Mahasiswa (One to One)
+  Setiap mahasiswa adalah user
+- User - Dosen (One to One)
+  Setiap dosen adalah user
+- Mahasiswa - Sidang (One to Many)
+  Satu mahasiswa bisa mengikuti lebih dari satu sidang(ikut sidang ulang).
+- Mahasiswa - Notifikasi (One to Many)
+  Satu mahasiswa bisa menerima banyak notifikasi
+- Dosen - Sidang (One to Many)
+  Satu dosen bisa menguji banyak sidang.
+- Dosen - Notifikasi (One to Many)
+  Satu dosen bisa mengrimkan banyak notifikasi ke banyak mahasiswa.
+- Sidang - Hasil_Sidang (One to One)
+  Satu sidang hanya memiliki satu hasil.
+
