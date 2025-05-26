@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS Mahasiswa;
+CREATE TABLE Mahasiswa (
+NIM CHAR(9) PRIMARY KEY,
+nama_mahasiswa VARCHAR(50) NOT NULL,
+alamat VARCHAR(100) NOT NULL,
+kelas VARCHAR(30) NOT NULL,
+prodi VARCHAR(30) NOT NULL,
+judul_tugasakhir VARCHAR(50) NOT NULL
+);
