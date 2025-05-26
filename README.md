@@ -5,4 +5,6 @@ Database dapat disimpan di: XAMPP(MYSQL), Navicat, atau diserver lainnya.
 ## ERD (Entity Relationship Diagram)
 ERD dalam membuat sebuah sistem digunakan untuk menggambarkan secara detail sebuah entitas/tabel serta relasi antar entitasnya dalam sebuah sistem yang dibuat.
 Fungsi ERD Yang Lain:
-Memahami kolom, data/tipe data apa saja yang akan dibuat 
+-Memahami kolom, data/tipe data apa saja yang akan dibuat 
+-Sebagai acuan untuk membuat tabel didalam database
+-Mengurangi kesalahan saat membuat database.
