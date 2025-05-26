@@ -15,12 +15,6 @@ Fungsi ERD Yang Lain:
 Sebelumnya terdapat revisi pada tabel mahasiswa dari tipe data char menjadi varchar.
 
 ## Relations (Relasi Antar Tabel)
-- User - Mahasiswa (One to One)
-  
-  Setiap mahasiswa adalah user
-- User - Dosen (One to One)
-  
-  Setiap dosen adalah user
 - Mahasiswa - Sidang (One to Many)
   
   Satu mahasiswa bisa mengikuti lebih dari satu sidang(ikut sidang ulang).
