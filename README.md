@@ -11,3 +11,6 @@ Fungsi ERD Yang Lain:
 - Sebagai acuan untuk membuat tabel didalam database
 - Mengurangi kesalahan saat membuat database.
 ![gambar](https://github.com/user-attachments/assets/228aa3b1-219a-4444-9bd5-675125b1970e)
+
+## Relations (Relasi Antar Tabel)
+- User - Mahasiswa
