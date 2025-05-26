@@ -43,6 +43,7 @@ Disini saya menggunakan Navicat, karena lebih mudah baik itu memasukan query ata
 - CREATE: Digunakan untuk membuat tabel maupun view
 - INSERT: Digunakan untuk memasukan data ke tabel
 - JOIN: Digunakan untuk menggabungkan data dari dua atau lebih tabel berdasarkan relasi antar tabel tersebut (biasanya lewat foreign key).
+  
 Notes :
 
 DROP TABLE IF EXISTS Mahasiswa berarti perintah untuk menghapus tabel Mahasiswa kalau tabel itu ada atau bisa juga iar nggak error kalau tabel sebelumnya udah pernah dibuat.
