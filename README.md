@@ -34,3 +34,5 @@ Fungsi ERD Yang Lain:
 - Sidang - Hasil_Sidang (One to One)
   
   Satu sidang hanya memiliki satu hasil.
+## QUERY
+https://drive.google.com/drive/folders/1LsAKN62Ci57Aqi5fyxoj5O6OwmTNUaAO?usp=sharing
