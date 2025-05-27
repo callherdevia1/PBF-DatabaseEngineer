@@ -1,6 +1,6 @@
 # PBF-DatabaseSidangAkhir
 ## 💻 Database
-Database merupakan tempat kumpulan data yang teroganisir secara rapi yang disimpan dalam suatu sistem dikomputer yang nantinya data tersebut dapat digunakan, dikelola, dan dapat diperbarui informasi data datanya.
+Database merupakan tempat kumpulan data yang disimpan secara rapi dalam suatu sistem dikomputer yang nantinya data tersebut dapat digunakan, dikelola, dan dapat diperbarui informasi data datanya.
 
 Database dapat disimpan di: XAMPP(MYSQL), Navicat, atau diserver lainnya.
 ## ERD (Entity Relationship Diagram) draw.io.
